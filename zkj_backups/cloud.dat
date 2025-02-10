@@ -1,0 +1,20 @@
+[
+	{
+		"atime" : "2024-11-28 19:20:14",
+		"fsize" : 12,
+		"mtime" : "2024-11-28 19:20:14",
+		"pack_flag" : true,
+		"pack_path" : "./packdir/text.txt.lz",
+		"real_path" : "./backdir/text.txt",
+		"url" : "/download/text.txt"
+	},
+	{
+		"atime" : "2024-11-28 21:09:18",
+		"fsize" : 6251,
+		"mtime" : "2024-11-28 21:09:18",
+		"pack_flag" : true,
+		"pack_path" : "./packdir/util.hpp.lz",
+		"real_path" : "./backdir/util.hpp",
+		"url" : "/download/util.hpp"
+	}
+]
