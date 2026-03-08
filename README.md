@@ -1,1 +1,4 @@
 # oldman_project
+本项目基于http协议完成 服务端客户端的通信 使用makefile进行项目构建
+使用到的第三方库只有httplib json
+下载完成相关第三方库 进入packdir下进行make 得到可运行文件即可
